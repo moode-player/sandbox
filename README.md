@@ -1,2 +1,2 @@
 # test
-Beta testing
+Beta test releases
