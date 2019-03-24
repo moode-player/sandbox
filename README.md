@@ -1,2 +1,2 @@
 # test
-Beta test releases
+This repo contains Beta and Release Candidates. 
